@@ -25,8 +25,7 @@ ExampleExtension.prototype.getInfo = function () {
         // Optional: URI for an icon for this extension. Data URI OK.
         // If not present, use a generic icon.
         // TODO: what file types are OK? All web images? Just PNG?
-        iconURI: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAFCAAAAACyOJm3AAAAFklEQVQYV2P4DwMMEMgAI/+DE' +
-            'UIMBgAEWB7i7uidhAAAAABJRU5ErkJggg==',
+        iconURI: 'https://avatars.githubusercontent.com/u/386750?s=200&v=4',
 
         // Optional: Link to documentation content for this extension.
         // If not present, offer no link.
